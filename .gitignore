@@ -1,0 +1,3 @@
+#ignore csv files
+/res/credits.csv
+/res/movies_metadata.csv
